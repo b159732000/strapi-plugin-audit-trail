@@ -1,5 +1,5 @@
 {
-  "name": "@10life/strapi-plugin-audit-trail",
+  "name": "@b159732000/strapi-plugin-audit-trail",
   "version": "1.0.6",
   "description": "Keep track to user activities.",
   "strapi": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/10Life/strapi-plugin-audit-trail.git"
+    "url": "https://github.com/b159732000/strapi-plugin-audit-trail.git"
   },
   "keywords": [
     "strapi",
@@ -31,7 +31,11 @@
   },
   "maintainers": [
     {
-      "name": "Roy To"
+        "name": "Roy To"
+    },
+    {
+        "name": "b159732000",
+        "email": "b159732000@gmail.com"
     }
   ],
   "engines": {
